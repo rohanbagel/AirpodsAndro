@@ -33,7 +33,7 @@ The app uses Bluetooth Low Energy (BLE) to scan for Apple devices and decode the
 
 ### Prototype UI
 
-<img src="screenshots/prototype_ui.jpg" alt="AirPodsAndro App Screenshot - Prototype UI showing AirPods Pro Battery Status with 3D model and battery indicators" width="300"/>
+<img src="AirpodsAndro/screenshots/prototype_ui.jpg" alt="AirPodsAndro App Screenshot - Prototype UI showing AirPods Pro Battery Status with 3D model and battery indicators" width="300"/>
 
 *Current prototype showing AirPods Pro with real-time battery monitoring for left pod, right pod, and charging case*
 
